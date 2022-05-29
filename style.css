@@ -1,6 +1,6 @@
 body{
 	background-image: url("Bg.jpg"); /* images/ está errado, exclua e deixe apenas Bg.jpg */
-	background-repeat: no-repeat;
+	
 }
 
 .topnav {
